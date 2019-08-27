@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Theme">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAEAAAAAQAAAAAAAAgAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dark">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Light">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homes">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="About">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Career">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
